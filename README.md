@@ -1,1 +1,2 @@
-# Fundamentals-of-Large-Scale-System-Design
+# 가상 면접 사례로 배우는 대규모 시스템 설계 기초 북스터디
+![가상면접사례로배우는대규모시스템설계기초](https://github.com/user-attachments/assets/a64831d2-378e-47f3-93fe-3523dd4c70cb)
